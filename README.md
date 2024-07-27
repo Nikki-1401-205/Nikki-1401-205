@@ -1,3 +1,5 @@
+![logo width="1000"](https://github.com/Nikki-1401-205/Nikki-1401-205/blob/main/OIP.jpeg)
+
 <h1 align="center">Hi 👋, I'm Nikita Kanwar</h1>
 <h3 align="center">Third Year Student from Bsc Computer Science.</h3
 <img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
