@@ -1,8 +1,8 @@
-![logo width="1000"](https://github.com/Nikki-1401-205/Nikki-1401-205/blob/main/OIP.jpeg)
+![logo width="1000"](https://github.com/Nikki-1401-205/Nikki-1401-205/blob/main/m.webp)
 
 <h1 align="center">Hi 👋, I'm Nikita Kanwar</h1>
 <h3 align="center">Third Year Student from Bsc Computer Science.</h3
-<img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" width="500" src="https://github.com/user-attachments/assets/e47cbd1d-0d04-4189-a042-f7b3fcd80bd2">
 
 - 🔭 I’m currently working on **Making a ChatBot for my college website.**
 
